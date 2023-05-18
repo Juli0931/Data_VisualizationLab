@@ -1,0 +1,4 @@
+
+In JavaScript, static variables are defined on the class itself, rather than on instances of the class. This means that there is only one copy of the static variable, which is shared by all instances of the class.
+
+Static variables are typically used to store values that are shared by all instances of the class, such as configuration options or global counters.
